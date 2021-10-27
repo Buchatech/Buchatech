@@ -17,6 +17,8 @@
 
 - :computer: My Pluralsight courses [https://app.pluralsight.com/profile/author/steve-buchanan](https://app.pluralsight.com/profile/author/steve-buchanan)
 
+- :closed_book: My Amazon author page [https://www.amazon.com/author/steve.buchanan](https://www.amazon.com/author/steve.buchanan)
+
 - 💬 Ask me about **Azure, Kubernetes, Argo CD, Terraform**
 
 - :thumbsup: Outside of tech I enjoy :family: :basketball: :biking_man: :golf: :weight_lifting_man: 
