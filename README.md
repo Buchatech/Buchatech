@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python and PHP Frameworks**
 
-- 👨‍💻 All of my projects are available at [http://www.buchatech.com/about](http://www.buchatech.com/about)
+- 👨‍💻 Full about me at [http://www.buchatech.com/about](http://www.buchatech.com/about)
 
 - 📝 I regularly write articles on [www.buchatech.com](www.buchatech.com)
 
