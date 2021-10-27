@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/buchatech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buchatech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/steveabuchanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steveabuchanan" height="30" width="40" /></a>
-<a href="http://feeds.feedburner.com/buchatechcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://www.buchatech.com/feed/" height="30" width="40" /></a><a href="http://www.buchatech.com" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/22551494/139148138-430eed5a-5ab0-4176-98fd-f2b90e44ad6e.png)" alt="http://www.buchatech.com" height="30" width="40" /></a>
+<a href="http://feeds.feedburner.com/buchatechcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://www.buchatech.com/feed/" height="30" width="40" /></a><a href="http://www.buchatech.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/22551494/139148138-430eed5a-5ab0-4176-98fd-f2b90e44ad6e.png" alt="http://www.buchatech.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
