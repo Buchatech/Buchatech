@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **Azure, Kubernetes, Argo CD, Terraform**
 
+-  I like :basketball:
+
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
