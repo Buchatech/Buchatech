@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [www.buchatech.com](www.buchatech.com)
 
-- 💬 Ask me about **Azure, Kubernetes, Argo CD**
+- 💬 Ask me about **Azure, Kubernetes, Argo CD, Terraform**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
