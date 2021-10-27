@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Azure, Kubernetes, Argo CD, Terraform**
 
--  I like :basketball:
+-  Outside of tech I like :family: :basketball: :biking_man: :golf: :weight_lifting_man: 
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
