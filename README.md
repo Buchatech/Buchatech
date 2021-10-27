@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Azure, Kubernetes, Argo CD**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
