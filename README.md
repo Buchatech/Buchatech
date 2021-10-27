@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Azure, Kubernetes, Argo CD, Terraform**
 
-- ![image](https://user-images.githubusercontent.com/22551494/139147639-f645ff44-47ff-44eb-bf08-afa2b21a7eed.png) Outside of tech I enjoy :family: :basketball: :biking_man: :golf: :weight_lifting_man: 
+- :thumbsup: Outside of tech I enjoy :family: :basketball: :biking_man: :golf: :weight_lifting_man: 
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
