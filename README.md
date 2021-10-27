@@ -15,6 +15,8 @@
 
 - 📝 I regularly write articles on [www.buchatech.com](www.buchatech.com)
 
+- :computer: My Pluralsight courses [https://app.pluralsight.com/profile/author/steve-buchanan](https://app.pluralsight.com/profile/author/steve-buchanan)
+
 - 💬 Ask me about **Azure, Kubernetes, Argo CD, Terraform**
 
 - :thumbsup: Outside of tech I enjoy :family: :basketball: :biking_man: :golf: :weight_lifting_man: 
