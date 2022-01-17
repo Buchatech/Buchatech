@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Azure, Kubernetes, GitOps, and all things cloud**
 
-- 🌱 I’m currently learning **Python and PHP Frameworks**
+- 🌱 I’m currently learning **JavaScript, and Python at a deeper level**
 
 - 👨‍💻 Full about me at [http://www.buchatech.com/about](http://www.buchatech.com/about)
 
