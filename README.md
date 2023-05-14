@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/buchatech" target="blank"><img src="https://img.shields.io/twitter/follow/buchatech?logo=twitter&style=for-the-badge" alt="buchatech" /></a> </p>
 
-- 🔭 I’m currently working on **Azure, Kubernetes, GitOps, and all things cloud**
+- 🔭 I’m currently working on **Azure, Kubernetes, GitOps, Crossplane, and all things cloud**
 
 - 🌱 I’m currently learning **JavaScript, and Python at a deeper level, as well as the MEAN Stack**
 
