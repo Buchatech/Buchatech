@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/buchatech" target="blank"><img src="https://img.shields.io/twitter/follow/buchatech?logo=twitter&style=for-the-badge" alt="buchatech" /></a> </p>
 
-- 🔭 I’m currently working on **Azure, Kubernetes, GitOps, Crossplane, and all things cloud**
+- 🔭 I’m currently working on **Azure, GCP, AWS, Kubernetes, GitOps, Crossplane, AI, and all things cloud**
 
 - 🌱 I’m currently learning **JavaScript, and Python at a deeper level, as well as the MEAN Stack**
 
@@ -17,7 +17,7 @@
 
 - :closed_book: My Amazon author page [https://www.amazon.com/author/steve.buchanan](https://www.amazon.com/author/steve.buchanan)
 
-- 💬 Ask me about **Azure, Kubernetes, Argo CD, Terraform**
+- 💬 Ask me about **Azure, GCP, AWS, Kubernetes, Argo CD, Terraform**
 
 - :thumbsup: Outside of tech I enjoy :family: :basketball: :biking_man: :golf: :weight_lifting_man: 
 
