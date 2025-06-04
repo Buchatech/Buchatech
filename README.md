@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Azure, GCP, AWS, Docker, Kubernetes, GitOps, Crossplane, AI, and all things cloud**
 
-- 🌱 I’m currently learning **JavaScript, and Python at a deeper level, as well as the MEAN Stack**
+- 🌱 I’m currently learning **Agentic AI, JavaScript, and Python at a deeper level**
 
 - 👨‍💻 Full about me at [http://www.buchatech.com/about](http://www.buchatech.com/about)
 
@@ -17,7 +17,7 @@
 
 - :closed_book: My Amazon author page [https://www.amazon.com/author/steve.buchanan](https://www.amazon.com/author/steve.buchanan)
 
-- 💬 Ask me about **Azure, GCP, AWS, Docker, Kubernetes, Argo CD, Terraform**
+- 💬 Ask me about **Azure, GCP, AWS, Docker, Kubernetes, Argo CD, Terraform, AI**
 
 - :thumbsup: Outside of tech I enjoy :family: :basketball: :biking_man: :golf: :weight_lifting_man: 
 
