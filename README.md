@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/buchatech" target="blank"><img src="https://img.shields.io/twitter/follow/buchatech?logo=twitter&style=for-the-badge" alt="buchatech" /></a> </p>
 
-- 🔭 I’m currently working on **Azure, GCP, AWS, Docker, Kubernetes, GitOps, OpenTofu, AI, and all things cloud**
+- 🔭 I’m currently working on **Azure, GCP, AWS, Docker, Kubernetes, GitOps, OpenTofu, AI (Claude, Codex, Foundry), and all things cloud**
 
 - 🌱 I’m currently learning **Agentic AI, Building AI Apps, JavaScript, and Python at a deeper level**
 
